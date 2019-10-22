@@ -1,0 +1,7 @@
+In this exercise, you going to take what you learned in this section and write your own Hello World script. Instead of just writing a single script I want you to use what you have learned and write it 3 different ways.
+
+- Using a text editor, compile and run
+- Using Groovy Console
+- IntelliJ
+
+Good Luck!

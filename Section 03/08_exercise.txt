@@ -1,0 +1,23 @@
+In this exercise, you are going to create your own class and start to think about what your class would contain. There is no 1 correct answer to this. Follow the rules and see what you come up with.
+
+1. Create a class called Tweet
+
+  - Add properties to this class.
+  - What properties would be present in a class that holds information about a tweet
+  - Think about what their data types would be
+  - What methods would go in this class?
+  - How about a constructor to create a new tweet.
+  - How about methods to change some of your properties?
+  - How about a toString method (or AST Transformation)
+
+2. Create a script called Twitter.
+
+  - In this script create one or more Tweets.
+  - print the Tweet instances to the console (and have their string representations shown)
+
+Bonus
+
+- Create a file called Tweet.groovy.
+- Inside this file create a class called Tweet (the one you created above)
+- Then in the same file outside of the class declaration try to create a new tweet.
+- What is the error you get and why is this happening?

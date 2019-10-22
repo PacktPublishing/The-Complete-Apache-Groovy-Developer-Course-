@@ -1,0 +1,8 @@
+In this exercise, we are going to accomplish 2 goals.
+
+1. Get a little more familiar with the Groovy API Docs
+2. Learn how to use AST Transformations
+
+We have already shown in previous lectures the ToString and Immutable AST Transformations. I want you to find 2 more and create either an example or examples of how to use them. Again there is no correct answer here. Browse the Groovy API Docs below and find 2 that you would like to give a test a drive.
+
+http://docs.groovy-lang.org/next/html/gapi/groovy/transform/package-summary.html

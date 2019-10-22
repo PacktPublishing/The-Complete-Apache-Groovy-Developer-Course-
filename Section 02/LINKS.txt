@@ -1,0 +1,16 @@
+https://www.jetbrains.com/idea/
+
+https://www.oracle.com/technetwork/java/javase/downloads/index.html
+
+http://groovy-lang.org/download.html
+
+https://bintray.com/groovy/Distributions/Windows-Installer/groovy-2.4.5-installer/
+
+https://sdkman.io/
+
+http://groovy-lang.org/groovysh.html
+
+http://groovy-lang.org/groovyc.html
+
+http://groovy-lang.org/groovyconsole.html
+

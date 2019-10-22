@@ -1,0 +1,6 @@
+http://groovy-lang.org/closures.html
+
+http://docs.groovy-lang.org/latest/html/api/groovy/lang/Closure.html
+
+https://docs.oracle.com/javase/8/docs/api/java/lang/StringBuffer.html
+

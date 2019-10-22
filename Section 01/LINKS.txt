@@ -1,0 +1,11 @@
+http://groovy-lang.org/gdk.html
+
+http://groovy-lang.org/api.html
+
+http://groovy-lang.org/
+
+https://www.amazon.com/Making-Java-Groovy-Ken-Kousen/dp/1935182943
+
+https://www.amazon.com/Programming-Groovy-Productivity-Developer-Programmers/dp/1937785300/
+
+https://www.amazon.com/Groovy-Action-Dierk-246-nig/dp/1935182447/

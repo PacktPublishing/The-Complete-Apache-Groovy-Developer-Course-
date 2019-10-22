@@ -1,0 +1,5 @@
+http://docs.groovy-lang.org/latest/html/groovy-jdk/java/util/Map.html
+
+http://docs.groovy-lang.org/latest/html/groovy-jdk/java/util/List.html
+
+http://docs.groovy-lang.org/latest/html/gapi/groovy/lang/Range.html
